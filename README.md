@@ -1,2 +1,3 @@
 # Drum-Kit
-A drum kit for your music bug.
+Make your own music.
+🔗 Jam Here : https://mr-pratham.github.io/Drum-Kit/
